@@ -1,6 +1,6 @@
 # Next Nike Store in New Mexico
 ## Location Recommendation for a New Nike Store  
-### This is a personal independent project. This project is only used for academic exchanges and supporting materials for applications. It can not be used for commercial purposes.
+### This is a personal independent project. This project is only used for professional communication and supporting materials for applications. It can not be used for commercial purposes.
 
 In this project, I used Google Map API and Foursquare API to collect the data of nearby venues (including the number of restaurants, stadiums, shops, bus stops and so on) of 80 existing Nike stores and 70 unsuitable locations for stores. Then, I built a decision tree model based on the data to predict which location in Santa Fe might be appropriate for a future Nike store. I also made a radar plot to characterize the existing Nike stores and the unsuitable locations and visualized the predicted locations on a Folium map.
 
