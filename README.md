@@ -1,4 +1,4 @@
-# Next-Nike-Store-in-New-Mexico
+# Next Nike Store in New Mexico
 ## Location Recommendation for a New Nike Store  
 ### This is a personal independent project. This project is only used for academic exchanges and supporting materials for applications. It can not be used for commercial purposes.
 
